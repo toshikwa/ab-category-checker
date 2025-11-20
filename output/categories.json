@@ -1,0 +1,134 @@
+[
+  {
+    "display_name": "Alexaスキル",
+    "id": "ALEXA_SKILLS"
+  },
+  {
+    "display_name": "Amazonデバイス・アクセサリ",
+    "id": "AMAZON_DEVICES_ACCESSORIES"
+  },
+  {
+    "display_name": "Audibleオーディオブック",
+    "id": "AUDIBLE_BOOKS_ORIGINALS"
+  },
+  {
+    "display_name": "DIY・工具・ガーデン",
+    "id": "DIY_TOOLS_GARDEN"
+  },
+  {
+    "display_name": "DVD",
+    "id": "DVD"
+  },
+  {
+    "display_name": "Kindleストア",
+    "id": "KINDLE_STORE"
+  },
+  {
+    "display_name": "PCソフト",
+    "id": "SOFTWARE"
+  },
+  {
+    "display_name": "Prime Video",
+    "id": "PRIME_VIDEO"
+  },
+  {
+    "display_name": "おもちゃ",
+    "id": "TOYS_GAMES"
+  },
+  {
+    "display_name": "アプリ＆ゲーム",
+    "id": "APPS_GAMES"
+  },
+  {
+    "display_name": "ギフトカード",
+    "id": "GIFT_CARDS"
+  },
+  {
+    "display_name": "ゲーム",
+    "id": "VIDEO_GAMES"
+  },
+  {
+    "display_name": "スポーツ＆アウトドア",
+    "id": "SPORTS_OUTDOORS"
+  },
+  {
+    "display_name": "デジタルミュージック",
+    "id": "DIGITAL_MUSIC"
+  },
+  {
+    "display_name": "ドラッグストア",
+    "id": "HEALTH_PERSONAL_CARE"
+  },
+  {
+    "display_name": "パソコン・周辺機器",
+    "id": "COMPUTERS"
+  },
+  {
+    "display_name": "ビューティー",
+    "id": "BEAUTY"
+  },
+  {
+    "display_name": "ファイナンス",
+    "id": "CREDIT_PAYMENT_CARDS"
+  },
+  {
+    "display_name": "ファッション",
+    "id": "CLOTHING_SHOES_JEWELRY"
+  },
+  {
+    "display_name": "ベビー＆マタニティ",
+    "id": "BABY_PRODUCTS"
+  },
+  {
+    "display_name": "ペット用品",
+    "id": "PET_SUPPLIES"
+  },
+  {
+    "display_name": "ホビー",
+    "id": "HOBBIES"
+  },
+  {
+    "display_name": "ホーム＆キッチン",
+    "id": "HOME_KITCHEN"
+  },
+  {
+    "display_name": "ミュージック",
+    "id": "MUSIC"
+  },
+  {
+    "display_name": "大型家電",
+    "id": "LARGE_APPLIANCES"
+  },
+  {
+    "display_name": "家電＆カメラ",
+    "id": "ELECTRONICS"
+  },
+  {
+    "display_name": "文房具・オフィス用品",
+    "id": "OFFICE_PRODUCTS"
+  },
+  {
+    "display_name": "本",
+    "id": "JAPANESE_BOOKS"
+  },
+  {
+    "display_name": "楽器・音響機器",
+    "id": "MUSICAL_INSTRUMENTS"
+  },
+  {
+    "display_name": "洋書",
+    "id": "FOREIGN_LANGUAGE_BOOKS"
+  },
+  {
+    "display_name": "産業・研究開発用品",
+    "id": "INDUSTRIAL_SCIENTIFIC"
+  },
+  {
+    "display_name": "車＆バイク",
+    "id": "AUTOMOTIVE"
+  },
+  {
+    "display_name": "食品・飲料・お酒",
+    "id": "FOOD_BEVERAGES_ALCOHOL"
+  }
+]
